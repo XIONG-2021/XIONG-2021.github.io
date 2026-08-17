@@ -7,9 +7,16 @@
   justify-self: end;
 }
 
+.section h2,
 .project-image .project-heading {
-  margin: 0 0 22px;
-  font-weight: 700;
+  margin: 0;
+  color: var(--accent);
+  font: 700 28px/1.2 Inter, Arial, sans-serif;
+  letter-spacing: 0;
+}
+
+.project-image .project-heading {
+  margin-bottom: 22px;
 }
 
 .project-copy h3 {
