@@ -7,6 +7,16 @@
   justify-self: end;
 }
 
+.project-image .project-heading {
+  margin: 0 0 22px;
+  font-weight: 700;
+}
+
+.project-copy h3 {
+  margin: 0 0 18px;
+  font: 600 30px/1.2 'Source Serif 4', Georgia, serif;
+}
+
 @media (max-width: 700px) {
   .profile {
     width: min(180px, 100%);
