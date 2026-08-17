@@ -1,0 +1,14 @@
+.intro-section {
+  grid-template-columns: minmax(0, 1fr) 210px;
+}
+
+.profile {
+  width: 180px;
+  justify-self: end;
+}
+
+@media (max-width: 700px) {
+  .profile {
+    width: min(180px, 100%);
+  }
+}
