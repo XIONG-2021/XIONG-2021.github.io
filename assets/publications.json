@@ -1,0 +1,22 @@
+{
+  "source": "Google Scholar profile JnBEkR8AAAAJ",
+  "captured_at": "2026-08-18",
+  "publications": [
+    {"year":2026,"citations":2,"title":"Future Hip Angle Guided Control: A Concise and Explicit Assistance Framework for Hip Exoskeleton","doi":"10.1109/tmech.2026.3651380"},
+    {"year":2026,"citations":5,"title":"Assist-as-needed hip exoskeleton control for gait asymmetry correction via human-in-the-loop optimization","doi":"10.1109/tbme.2026.3660874"},
+    {"year":2025,"citations":2,"title":"AJaP: An Adaptive Network for Hip Joint Angle Prediction in Assistive Walking With Continual Learning","doi":"10.1109/tcds.2025.3582970"},
+    {"year":2025,"citations":0,"title":"Estimation and Prediction of CoM With Terrain Feature Embedding During Walking","doi":"10.1109/tase.2025.3570875"},
+    {"year":2025,"citations":6,"title":"Joint moment estimation for hip exoskeleton control: A generalized moment feature generation method","doi":"10.1016/j.birob.2025.100246"},
+    {"year":2025,"citations":0,"title":"A Reduced Gravity Simulation System for Astronauts Training Based on Lower Limb Exoskeleton Robot","doi":"10.1109/cbs65871.2025.11267641"},
+    {"year":2025,"citations":0,"title":"Construction of a Mobile Robot Simulation Platform for Human-Following Tasks","doi":"10.1109/rcar65431.2025.11139407"},
+    {"year":2024,"citations":12,"title":"Terrain-adaptive exoskeleton control with predictive gait mode recognition: A pilot study during level walking and stair ascent","doi":"10.1109/tmrb.2024.3349624"},
+    {"year":2024,"citations":14,"title":"Adaptive oscillator-based gait feature extraction method of hip exoskeleton for stroke patients","doi":"10.1109/tmrb.2023.3329585"},
+    {"year":2024,"citations":1,"title":"IMU-based human ground reaction force estimation method","doi":"10.1007/978-981-96-0792-1_31"},
+    {"year":2024,"citations":1,"title":"Fast Hip Joint Moment Estimation with A General Moment Feature Generation Method","doi":"10.48550/arXiv.2410.00462"},
+    {"year":2023,"citations":13,"title":"A probability fusion approach for foot placement prediction in complex terrains","doi":"10.1109/tnsre.2023.3333685"},
+    {"year":2023,"citations":4,"title":"Predict hip joint moment using CNN for hip exoskeleton control","doi":"10.1007/978-981-99-6498-7_18"},
+    {"year":2022,"citations":126,"title":"Predictive locomotion mode recognition and accurate gait phase estimation for hip exoskeleton on various terrains","doi":"10.1109/lra.2022.3173426"},
+    {"year":2020,"citations":14,"title":"Simultaneously low rank and group sparse decomposition for rolling bearing fault diagnosis","doi":"10.3390/s20195541"},
+    {"year":2019,"citations":37,"title":"A group sparse representation method in frequency domain with adaptive parameters optimization of detecting incipient rolling bearing fault","doi":"10.1016/j.jsv.2019.114931"}
+  ]
+}
